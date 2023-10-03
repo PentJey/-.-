@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "калькулятор перевода лет и т.д", "калькулятор перевода лет и т.д\калькулятор перевода лет и т.д.csproj", "{33EEF43A-C2D2-40CF-9AE0-3163A63A8F87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33EEF43A-C2D2-40CF-9AE0-3163A63A8F87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33EEF43A-C2D2-40CF-9AE0-3163A63A8F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33EEF43A-C2D2-40CF-9AE0-3163A63A8F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33EEF43A-C2D2-40CF-9AE0-3163A63A8F87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B39A314-5F83-4A35-A782-C0B8266A301A}
+	EndGlobalSection
+EndGlobal
